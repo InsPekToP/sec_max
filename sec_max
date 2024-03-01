@@ -1,0 +1,4 @@
+lis = [5, 7, 233, 8, 301, -1, 93, -4]
+lis.sort()
+print(lis)
+print(lis[-2])
